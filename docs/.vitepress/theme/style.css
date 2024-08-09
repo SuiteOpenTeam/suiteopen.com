@@ -1,0 +1,44 @@
+/* global & wordpress style */
+body,html,p,li,ul{
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 16px;
+    font-family: 'rigsans', sans-serif;
+}
+
+body{
+    --color-primary: #0632a0;
+    --font-heading: 'fieldgothic', sans-serif;
+    --color-text: #1eb4e6;
+    --light-bg: #f7f7f7;
+}
+
+a{
+    cursor: pointer;
+    text-decoration: none;
+}
+ul,li {
+    list-style: none;
+}
+.layout-mid{
+    max-width: 1200px;
+    margin: 0 auto;
+    color: #333;
+}
+.v-btn{
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 2px solid #1eb4e6;
+    background-color: #fff;
+    color: #333;
+    font-size: 14px;
+    padding:6px 8px;
+}
+.v-btn:hover{
+    background-color: #1eb4e6;
+    color: #fff;
+}
