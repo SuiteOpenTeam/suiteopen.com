@@ -46,7 +46,15 @@ export default defineConfigWithTheme({
       },
       {
         text: 'Industries',
-        link: '/cloud/industry'
+        sublist: [
+          {
+            text: 'Industries Solutions',
+            items: [
+              { text: 'Consumer Goods', link: '/industry/consumer-goods' },
+              { text: 'Manufacturing', link: '/industry/manufacturing' },
+            ]
+          }
+        ]
       },
       {
         text: 'Cloud & Software',
@@ -78,7 +86,7 @@ export default defineConfigWithTheme({
       caseOne: {
         name: 'XXX CASE STUDY',
         desc: 'See how we helped xxx integrate production, logistics, and management processes with Oracle NetSuite.',
-        link: ''
+        link: '/case/renogy'
       },
       welcome: `Welcome to SuiteOpen. We're a leading global technology solutions and services provider for cloud application implementation and management.`,
       solution: {
@@ -98,10 +106,10 @@ export default defineConfigWithTheme({
         title: 'Industry know-how',
         subTitle: 'At SuiteOpen, we combine extensive industry experience with deep enterprise application, cloud, and security knowledge to deliver context to technology.',
         items: [
-           { title: 'Manufacturing', link: '', desc: 'Improve manufacturing processes from procurement to production, optimize workflows, and stand out from competitors.' },
-           { title: 'Mining + Metals', link: '', desc: 'Optimize resource extraction, elevate safety standards, and boost compliance to achieve sustainable growth.' },
-           { title: 'Engineering + Construction', link: '', desc: 'Empower your team with streamlined project and site management capabilities, reducing project timelines and enhancing efficiency.' },
-           { title: 'Consumer Goods', link: '', desc: 'Advanced analytics, demand forecasting, supply chain optimization and more to redefine the definition of customer experience.' }
+           { title: 'Manufacturing', link: '/industry/manufacturing', desc: 'Improve manufacturing processes from procurement to production, optimize workflows, and stand out from competitors.' },
+           { title: 'Mining + Metals', link: '/industry/consumer-goods', desc: 'Optimize resource extraction, elevate safety standards, and boost compliance to achieve sustainable growth.' },
+           { title: 'Engineering + Construction', link: '/industry/manufacturing', desc: 'Empower your team with streamlined project and site management capabilities, reducing project timelines and enhancing efficiency.' },
+           { title: 'Consumer Goods', link: '/industry/consumer-goods', desc: 'Advanced analytics, demand forecasting, supply chain optimization and more to redefine the definition of customer experience.' }
         ]
       }
     }

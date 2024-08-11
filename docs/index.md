@@ -42,7 +42,7 @@ title:  NetSuite ERP Cloud  Solutions
         >
             <p class="customer-text"> {{ home.caseOne.name }}</p>
             <p class="mt-16">{{ home.caseOne.desc }}</p>
-            <a class="button" target="_blank" :href="home.caseOne.link">READ CASE STUDY</a>
+            <a class="button" :href="home.caseOne.link">READ CASE STUDY</a>
         </div>
       </div>
    </div>
@@ -98,7 +98,7 @@ title:  NetSuite ERP Cloud  Solutions
                 <div class="hover-box hover-back">
                     <p class="hover-title">{{item.title}}</p>
                     <p class="hover-text">{{item.desc}}</p>
-                    <a class="button" :href="item.link" target="_blank">EXPLORE</a>
+                    <a class="button" :href="item.link" >EXPLORE</a>
                 </div>
             </div>
         </div>
