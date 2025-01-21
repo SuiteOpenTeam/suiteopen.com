@@ -84,7 +84,7 @@ export default defineConfigWithTheme({
     // page data
     home: {
       caseOne: {
-        name: 'XXX CASE STUDY',
+        name: 'ERP CASE STUDY',
         desc: 'See how we helped xxx integrate production, logistics, and management processes with Oracle NetSuite.',
         link: '/case/renogy'
       },
