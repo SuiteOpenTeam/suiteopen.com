@@ -14,3 +14,9 @@
 
 ### 本地预览构建文件
 `pnpm run docs:preview` 
+
+
+### GIT提交
+`git add .`
+`git commit -m 'This is my website change'`
+`git push`

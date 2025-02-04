@@ -5,34 +5,38 @@ title: Contact
 <div>
    <div class="layout-mid">
       <div class="header">Contact Us</div>
-      <p class="mail">E-Mail: <a href="mailto:sales@suiteopen.com">sales@suiteopen.com</a></p>
+      <div style="float:left; width:50%"><p class="mail">
+      E-Mail: <a href="mailto:daniel.cai@suiteopen.com">daniel.cai@suiteopen.com</a><br/><br/>
+      WeChat: <a href="#">DanielCongCai</a><br/><br/>
+      Mobile: <a href="#">+86-15910420275</a>
+      </p><br/><br/><br/></div>
+      <div class="talk-right" style="float:right; width:50%;">
+         <img src="/DanielCongCai.jpg" style="vertical-align:top; float:right; width:300px; height:300px; align:right;"/>
+      </div><br/>
       <div class="addr">
          <p class="addr-country">China</p>
          <div class="addr-detail">
              <div class="addr-city">
-                <div class="city-name">BeiJing</div>
+                <div class="city-name">Beijing</div>
                 <div class="addr-street">
-                   A1/A2, Floor 5, Technology Plaza, International Sci-Tech. Park <br/>
-                   No.1355 Jinjihu Boulevard, Industrial Park
+                   Huawen International #2-404, Jianguo East Road #15<br/>Chaoyang District
                 </div>
              </div>
              <div class="addr-city">
                 <div class="city-name">GuangZhou</div>
                 <div class="addr-street">
-                   A1/A2, Floor 5, Technology Plaza, International Sci-Tech. Park <br/>
-                   No.1355 Jinjihu Boulevard, Industrial Park
+                   Room #1-1301, Feng Ze Road #106<br/>Nansha District
                 </div>
              </div>
          </div>
       </div>
        <div class="addr">
-         <p class="addr-country">Japan</p>
+         <p class="addr-country">HongKong</p>
          <div class="addr-detail">
              <div class="addr-city">
-                <div class="city-name">Tokyo</div>
+                <div class="city-name">Mong Kok</div>
                 <div class="addr-street">
-                   A1/A2, Floor 5, Technology Plaza, International Sci-Tech. Park <br/>
-                   No.1355 Jinjihu Boulevard, Industrial Park
+                   Room-03, 24/F, Ho King Commercial Centre, 2-16 Fa Yuen St
                 </div>
              </div>
              <div class="addr-city">
@@ -41,7 +45,7 @@ title: Contact
       </div>
    </div>
 </div>
-<div style="height: 200px;"></div>
+<div style="height:50px;"></div>
 
 <style scoped>
     .mail{
