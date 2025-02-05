@@ -11,7 +11,7 @@ title: Contact
       Mobile: <a href="#">+86-15910420275</a>
       </p><br/><br/><br/></div>
       <div class="talk-right" style="float:right; width:50%;">
-         <img src="/DanielCongCai.jpg" style="vertical-align:top; float:right; width:300px; height:300px; align:right;"/>
+         <img src="/DanielCongCai.jpg" style="vertical-align:top; float:right; width:290px; height:300px; align:right;"/>
       </div><br/>
       <div class="addr">
          <p class="addr-country">China</p>

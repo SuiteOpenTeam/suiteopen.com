@@ -3,7 +3,7 @@ title: About
 ---
 
 <div class="banner-wrap">
-<div class="layout-mid banner-text"> Our Company </div>
+<div class="layout-mid banner-text">About SuiteOpen</div>
 </div>
 <div >
    <div class="layout-mid talk">
@@ -13,8 +13,8 @@ title: About
       <div class="talk-left">
           <p class="tl-title">SuiteOpen, Poised to propel you forward.</p>
           <p class="tl-desc">We’re a leading global technology solutions and services provider for cloud application implementation and management. </p>
-          <p class="tl-desc">We bring to our clients deep capabilities in implementing and maintaining NetSuite ERP deployments  in a secure and resilient private, public, hybrid, or multi-cloud environment </p>
-          <p class="tl-desc">Our edge lies in our breadth of expertise and our industry understanding—elements that define our ability to deliver unmatched solutions and services. </p>
+          <p class="tl-desc">We bring to our clients deep capabilities in implementing and maintaining NetSuite ERP deployments  in a secure and resilient public cloud environment.</p>
+          <p class="tl-desc">Our advantage lies in our breadth of expertise and our industry understanding—elements that define our ability to deliver unmatched solutions and services. </p>
       </div>
    </div>
 </div>
@@ -22,7 +22,7 @@ title: About
 <div class="layout-mid talk">
    <div class="history">
       <p class="tl-title">A legacy of excellence</p>
-      <p class="tl-desc">For over 10 years, we’ve delivered trusted, comprehensive technology solutions addressing IT and ERP needs of businesses. We provide industry-specific managed and professional services with an emphasis on technology integration and security.</p>
+      <p class="tl-desc">For over 14 years, we’ve delivered trusted, tailored NetSuite solutions addressing IT and ERP needs of businesses. We provide industry-specific managed and professional services with an emphasis on various system integration and security.</p>
    </div>
    <div class="history h-flex">
        <div class="h-col" v-for="item in cases">
@@ -35,23 +35,23 @@ title: About
 <div >
    <div class="layout-mid talk">
       <div class="talk-left">
-          <p class="tl-title">Our vision is clear</p>
-          <p class="tl-desc">At SuiteOpen, we relentlessly pursue excellence with clients, partners, and employees to become the preferred full-stack technology partner for midmarket and large enterprise companies. ​  </p>
+          <p class="tl-title">Our Vision</p>
+          <p class="tl-desc">At SuiteOpen, we relentlessly pursue excellence with clients, partners, and employees to become the preferred full-stack technology partner for small and midmarket businesses.</p>
       </div>
        <div class="talk-right">
-        <img src="/asset/solution-lead.jpg"/>
+        <img src="/asset/vision.png"/>
        </div>
    </div>
 </div>
 
 <script setup>
     const cases = [
-        { text: 'Technology certifications', amt: '1,756' },
-        { text: 'Countries', amt: '15' },
-        { text: 'Local Offices', amt: '26' },
-        { text: 'Projects implemented in 2022', amt: '189' },
-        { text: 'Active Enterprise Customers', amt: '800+' },
-        { text: 'Consultants', amt: '1,000' },
+        { text: 'Certifications', amt: '28' },
+        { text: 'Countries', amt: '3' },
+        { text: 'Local Offices', amt: '2' },
+        { text: 'Projects in 2024', amt: '15' },
+        { text: 'Active Customers', amt: '46' },
+        { text: 'Technical Consultants', amt: '23' },
     ]
 </script>
 

@@ -310,12 +310,12 @@ const { home } = theme.value;
     background-position: center;
 }
 .bg-img-2{
-    background: url(./img-industries-2.webp);
+    background: url(./internetPic.jpg);
      background-size: cover;
     background-position: center;
 }
 .bg-img-3{
-    background: url(./img-industries-3.webp);
+    background: url(./darkFurniture1.png);
      background-size: cover;
     background-position: center;
 }

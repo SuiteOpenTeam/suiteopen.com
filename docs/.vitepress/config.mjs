@@ -10,7 +10,7 @@ export default defineConfigWithTheme({
     logoLink: '/',
     nav: [
       {
-        text: 'Professional Services',
+        text: 'Home',
         link: '/'
         // sublist: [
         //   { text: 'Oracle Consulting',
@@ -57,8 +57,8 @@ export default defineConfigWithTheme({
         ]
       },
       {
-        text: 'Cloud & Software',
-        link: ''
+        text: 'Case Study',
+        link: '/case'
       },
       {
         text: 'About',
@@ -70,10 +70,10 @@ export default defineConfigWithTheme({
       }
     ],
     footer: {
-      copyright: '© Guangzhou SuiteOpen Technology Co.,Ltd.',
+      copyright: '© HongKong SuiteOpen Technology Limited',
       contact: {
-        phone: '',
-        email: 'sales@suiteopen.com'
+        phone: '+86-15910420275',
+        email: 'daniel.cai@suiteopen.com'
       },
       terms: [
         {text: 'Terms', link: ''},
@@ -94,22 +94,22 @@ export default defineConfigWithTheme({
         subTitle: 'Explore our full navigation for more services and solutions.',
         items: [
           { title: 'NetSuite Implementations + Migrations', desc: 'Ensure a seamless business process transition whether you’re just starting your NetSuite journey or taking it to the next level.' },
-          { title: 'NetSuite Cloud Solutions', desc: 'Leverage flexible, cloud-based solutions powered by leading-edge AI and machine learning technologies to adapt quickly to changing market demands and drive innovation.' },
-          { title: 'RISE with NetSuite', desc: 'A comprehensive and holistic approach to business processes, enabling companies to effectively navigate complexities and achieve long-term success.'}
+          { title: 'NetSuite Maintenance', desc: 'Leverage on our 5x24 hours service to ensure your ERP system is always up and running. We provide daily trouble shooting for all different levels of problems. Save your employee’s valuable time to focus on your business itself.' },
+          { title: 'SuiteHouse (WMS)', desc: 'A warehouse management system (WMS), comprehensively integrated with NetSuite. Precisely manage your daily warehouse activities through SuiteHouse. Connect to the ecommerce platform, including but no limited to: Amazon, Walmart, eBay, Shopify, BigCommerce. And decrease your delivery fee through auto comparison among all different carriers.'}
         ]
       },
       evalaute: {
-        text: '“Digital manufacturing is the tool that will allow us to control the entire process from a central location, from analyzing the dough we’re mixing to getting a delicious, consistent product out the door to the consumer.“',
-        person: 'Chief Data & Analytics Officer - Lee'
+        text: '“NetSuite helped us to complete our AmBeed’s global digital transformation. We successfully consolidate 12 business entities from 4 countries within NetSuite. And SuiteOpen helped AmBeed to integrate all of our other business systems with NetSuite, like WMS, PLM, Expense.“',
+        person: 'Chief Finance Officer - Mr. Lu / 芦晓旭(Lu Xiaoxu)'
       },
       industry: {
         title: 'Industry know-how',
         subTitle: 'At SuiteOpen, we combine extensive industry experience with deep enterprise application, cloud, and security knowledge to deliver context to technology.',
         items: [
            { title: 'Manufacturing', link: '/industry/manufacturing', desc: 'Improve manufacturing processes from procurement to production, optimize workflows, and stand out from competitors.' },
-           { title: 'Mining + Metals', link: '/industry/consumer-goods', desc: 'Optimize resource extraction, elevate safety standards, and boost compliance to achieve sustainable growth.' },
-           { title: 'Engineering + Construction', link: '/industry/manufacturing', desc: 'Empower your team with streamlined project and site management capabilities, reducing project timelines and enhancing efficiency.' },
-           { title: 'Consumer Goods', link: '/industry/consumer-goods', desc: 'Advanced analytics, demand forecasting, supply chain optimization and more to redefine the definition of customer experience.' }
+           { title: 'Internet Company', link: '/industry/consumer-goods', desc: 'Optimize resource extraction, elevate safety standards, and boost compliance to achieve sustainable growth.' },
+           { title: 'Furniture Industry', link: '/industry/manufacturing', desc: 'Empower your team with streamlined project and site management capabilities, reducing project timelines and enhancing efficiency.' },
+           { title: 'eCommerce', link: '/industry/consumer-goods', desc: 'Advanced analytics, demand forecasting, supply chain optimization and more to redefine the definition of customer experience.' }
         ]
       }
     }
