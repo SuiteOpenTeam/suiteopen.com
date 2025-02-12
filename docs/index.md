@@ -59,9 +59,7 @@ title:  NetSuite ERP Cloud  Solutions
        <p class="read-text">
           {{ home.solution.title }}
        </p>
-       <p class="read-head">
-          {{ home.solution.subTitle }}
-       </p>
+       <p class="read-head">{{ home.solution.subTitle }}</p>
        <ul class="s-ul">
           <li class="s-li" v-for="item in home.solution.items">
               <p class="s-title">{{item.title}}</p>

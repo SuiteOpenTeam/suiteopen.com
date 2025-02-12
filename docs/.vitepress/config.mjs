@@ -2,7 +2,7 @@ import { defineConfigWithTheme } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfigWithTheme({
-  title: "SUITEOPEN",
+  title: "SuiteOpen",
   description: "NetSuite ERP SuiteOpen  Oracle NS",
   head: [['link', { rel: 'icon', href: 'logo.ico' }]],
   themeConfig: {
@@ -31,24 +31,23 @@ export default defineConfigWithTheme({
         // ]
       },
       {
-        text: 'NetSuite Solutions',
-        link: '/netsuite/solutions'
-        // sublist: [
-        //   { text: 'Cloud Service',
-        //      items: [
-        //       { text: 'AWS', link: '/' },
-        //       { text: 'Azure', link: '/' },
-        //       { text: 'OCI', link: '/' },
-        //       { text: 'AliCloud', link: '/' },
-        //      ]
-        //   }
-        // ]
+        text: 'Our Solutions',
+        link: '',
+        sublist: [
+          { text: 'Cloud Technologies',
+             items: [
+              { text: 'NetSuite (ERP)', link: '/solution/netsuite' },
+              { text: 'SuiteHouse (WMS)', link: '/solution/suitehouse' },
+              { text: 'SuiteHub (OMS)', link: '/solution/suitehub' },
+             ]
+          }
+        ]
       },
       {
         text: 'Industries',
         sublist: [
           {
-            text: 'Industries Solutions',
+            text: 'Industrial Solutions',
             items: [
               { text: 'Manufacturing', link: '/industry/consumer-goods' },
               { text: 'Internet Company', link: '/industry/manufacturing' },
@@ -60,7 +59,18 @@ export default defineConfigWithTheme({
       },
       {
         text: 'Case Study',
-        link: '/case'
+        link: '',
+        sublist: [
+          {
+            text: 'Our Customers\' Journeys',
+            items: [
+              { text: 'Manufacturing', link: '/industry/consumer-goods' },
+              { text: 'Internet Company', link: '/industry/manufacturing' },
+              { text: 'Furniture Industry', link: '/industry/manufacturing' },
+              { text: 'eCommerce', link: '/industry/manufacturing' },
+            ]
+          }
+        ]
       },
       {
         text: 'About',
@@ -97,7 +107,8 @@ export default defineConfigWithTheme({
         items: [
           { title: 'NetSuite Implementations + Migrations', desc: 'Ensure a seamless business process transition whether you’re just starting your NetSuite journey or taking it to the next level.' },
           { title: 'NetSuite Maintenance', desc: 'Leverage on our 5x24 hours service to ensure your ERP system is always up and running. We provide daily trouble shooting for all different levels of problems. Save your employee’s valuable time to focus on your business itself.' },
-          { title: 'SuiteHouse (WMS)', desc: 'A warehouse management system (WMS), comprehensively integrated with NetSuite. Precisely manage your daily warehouse activities through SuiteHouse. Connect to the ecommerce platform, including but no limited to: Amazon, Walmart, eBay, Shopify, BigCommerce. And decrease your delivery fee through auto comparison among all different carriers.'}
+          { title: 'SuiteHouse (WMS)', desc: 'A warehouse management system (WMS), comprehensively integrated with NetSuite. Precisely manage your daily warehouse activities using mobile devices and real-time reports. And decrease your delivery fee through auto comparison among all different carriers.'},
+          { title: 'SuiteHub (OMS)', desc: 'An order management system (OMS), collecting orders from the ecommerce platform, including but no limited to: Amazon, Walmart, eBay, Shopify, BigCommerce.'}
         ]
       },
       evalaute: {

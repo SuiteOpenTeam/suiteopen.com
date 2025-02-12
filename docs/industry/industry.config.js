@@ -23,7 +23,7 @@ export default {
         },
         customer: {
             project: 'Smart Press',
-            text: 'With Syntax, we have a partner at our side who knows how industrial companies tick, who knows the processes and special features. Therefore, they also understand which impulses',
+            text: 'With SuiteOpen, we have a partner at our side who knows how industrial companies tick, who knows the processes and special features. Therefore, they also understand which impulses',
             btn: {
                 text: 'READ CASE STORY',
                 link: '/case/renogy'
@@ -37,7 +37,7 @@ export default {
             subject: 'INDUSTRIES',
             type: ' Manufacturing',
             desc: 'Drive manufacturing efficiency leveraging ERP cloud solutions',
-            img: '	https://www.syntax.com/wp-content/uploads/2024/08/header-Manufacturing.webp'
+            img: 'https://www.syntax.com/wp-content/uploads/2024/08/header-Manufacturing.webp'
         },
         trends: {
             title: 'Assembling lean, connected, and digitally transformed future',
@@ -55,7 +55,7 @@ export default {
         },
         customer: {
             project: 'Smart Press',
-            text: 'With Syntax, we have a partner at our side who knows how industrial companies tick, who knows the processes and special features. Therefore, they also understand which impulses',
+            text: 'With SuiteOpen, we have a partner at our side who knows how industrial companies tick, who knows the processes and special features. Therefore, they also understand which impulses',
             btn: {
                 text: 'READ CASE STORY',
                 link: '/case/renogy'
