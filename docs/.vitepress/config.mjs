@@ -51,7 +51,7 @@ export default defineConfigWithTheme({
             items: [
               { text: 'Manufacturing', link: '/industry/manufacturing' },
               { text: 'Internet Company', link: '/industry/internet-company' },
-              { text: 'Furniture Industry', link: '/industry/furniture' },
+              { text: 'Furniture & Furnishings', link: '/industry/furniture' },
               { text: 'eCommerce', link: '/industry/ecommerce' },
             ]
           }
@@ -66,7 +66,7 @@ export default defineConfigWithTheme({
             items: [
               { text: 'Manufacturing', link: '/industry/consumer-goods' },
               { text: 'Internet Company', link: '/industry/manufacturing' },
-              { text: 'Furniture Industry', link: '/industry/manufacturing' },
+              { text: 'Furniture & Furnishings', link: '/industry/manufacturing' },
               { text: 'eCommerce', link: '/industry/manufacturing' },
             ]
           }
@@ -121,7 +121,7 @@ export default defineConfigWithTheme({
         items: [
            { title: 'Manufacturing', link: '/industry/manufacturing', desc: 'Improve manufacturing processes from procurement to production, optimize workflows, and stand out from competitors.' },
            { title: 'Internet Company', link: '/industry/consumer-goods', desc: 'Optimize resource extraction, elevate safety standards, and boost compliance to achieve sustainable growth.' },
-           { title: 'Furniture Industry', link: '/industry/manufacturing', desc: 'Empower your team with streamlined product and customer management capabilities, reducing order delivery timelines and enhancing efficiency.' },
+           { title: 'Furniture & Furnishings', link: '/industry/manufacturing', desc: 'Empower your team with streamlined product and customer management capabilities, reducing order delivery timelines and enhancing efficiency.' },
            { title: 'eCommerce', link: '/industry/consumer-goods', desc: 'Advanced analytics, demand forecasting, supply chain optimization and more to redefine the definition of customer experience.' }
         ]
       }

@@ -15,29 +15,29 @@ export default {
             title: 'Staying attuned to emerging trends and consistently prioritising consumer needs. ',
             desc: 'E-commerce has undoubtedly brought new opportunities to businesses by overcoming the geographical constraints in traditional trade. Apart from selling directly to consumers via retail eCommerce channels, it also allows brands to reach out to overseas consumers to conduct overseas B2C transactions.',
             items: [
-                'Route your .',
-                'Reduce the complexities of your asset operations.',
-                'Reduce the complexities of your asset operations.'
+                'Route orders to the optimal locations by utilizing highly customized allocation rules',
+                'Provide efficient fulfillment tools for storefront staff, both online and offline.',
+                'Monitor and manage orders centrally in a single platform.'
             ],
-            img: 'https://www.syntax.com/wp-content/uploads/2024/08/img-manufacturing-tomorrow-today.webp'
+            img: '/asset/ecommerce-Conversion.png'
         },
         customer: {
             project: 'Smart Press',
-            text: 'With SuiteOpen, we have a partner at our side who knows how industrial companies tick, who knows the processes and special features. Therefore, they also understand which impulses',
+            text: 'The whole transform process was slick. The testing went well, our key users didn\'t even notice the switch, and dealing with the third party went well. Slick is the word.',
             btn: {
                 text: 'READ CASE STORY',
                 link: '/case/renogy'
             },
-            img: 'https://www.syntax.com/wp-content/uploads/2024/08/img-manufacturing-tomorrow-today.webp'
+            img: '/asset/warehouse-automation.jpeg'
         }
     },
     'furniture': {
-        title: 'Manufacturing',
+        title: 'Furniture & Furnishings',
         banner: {
             subject: 'INDUSTRIES',
-            type: ' Manufacturing',
+            type: 'Furniture & Furnishings',
             desc: 'Drive manufacturing efficiency leveraging ERP cloud solutions',
-            img: 'https://www.syntax.com/wp-content/uploads/2024/08/header-Manufacturing.webp'
+            img: '/asset/Black-Living-Room.jpeg'
         },
         trends: {
             title: 'Assembling lean, connected, and digitally transformed future',

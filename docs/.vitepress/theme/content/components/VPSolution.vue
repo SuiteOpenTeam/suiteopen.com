@@ -42,7 +42,7 @@
             <div class="p-flex">
                 <div class="flex-item">
                     <img src="/asset/all-in.webp" />
-                    <p>Proven consumer goods industry experience</p>
+                    <p>Proven industry experience</p>
                 </div>
                     <div class="flex-item">
                     <img src="/asset/services.webp" />

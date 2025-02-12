@@ -20,9 +20,9 @@ title:  NetSuite ERP Cloud  Solutions
             }
             }"
         >
-            Redefining the<br>
-            Future of Mining with<br>
-            Next-Gen Technology
+            Redefine Your Digital<br>
+            Transformation Journey<br>
+            with Next-Gen Technology
         </p>
         <div 
         v-if="home.caseOne"
