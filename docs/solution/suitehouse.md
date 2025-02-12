@@ -19,7 +19,7 @@ title: SuiteHouse (WMS) Solutions
         }
         }"
       >SuiteHouse: warehouse management system (WMS) solutions</p>
-      <p class="banner-text" v-motion :initial="{ opacity: 0, y: 80 }" :enter="{ opacity: 1, y: 0, transition: { delay: 250, duration: 500 } }">Warehouse Management System for Your Facilities</p>
+      <p class="banner-text" v-motion :initial="{ opacity: 0, y: 80 }" :enter="{ opacity: 1, y: 0, transition: { delay: 250, duration: 500 } }">Insight to your real-time stock from anywhere, anytime</p>
     </div>
 </div>
 <div>

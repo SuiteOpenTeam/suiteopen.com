@@ -49,16 +49,16 @@ export default defineConfigWithTheme({
           {
             text: 'Industrial Solutions',
             items: [
-              { text: 'Manufacturing', link: '/industry/consumer-goods' },
-              { text: 'Internet Company', link: '/industry/manufacturing' },
-              { text: 'Furniture Industry', link: '/industry/manufacturing' },
-              { text: 'eCommerce', link: '/industry/manufacturing' },
+              { text: 'Manufacturing', link: '/industry/manufacturing' },
+              { text: 'Internet Company', link: '/industry/internet-company' },
+              { text: 'Furniture Industry', link: '/industry/furniture' },
+              { text: 'eCommerce', link: '/industry/ecommerce' },
             ]
           }
         ]
       },
       {
-        text: 'Case Study',
+        text: 'Case Studies',
         link: '',
         sublist: [
           {
@@ -108,7 +108,7 @@ export default defineConfigWithTheme({
           { title: 'NetSuite Implementations + Migrations', desc: 'Ensure a seamless business process transition whether you’re just starting your NetSuite journey or taking it to the next level.' },
           { title: 'NetSuite Maintenance', desc: 'Leverage on our 5x24 hours service to ensure your ERP system is always up and running. We provide daily trouble shooting for all different levels of problems. Save your employee’s valuable time to focus on your business itself.' },
           { title: 'SuiteHouse (WMS)', desc: 'A warehouse management system (WMS), comprehensively integrated with NetSuite. Precisely manage your daily warehouse activities using mobile devices and real-time reports. And decrease your delivery fee through auto comparison among all different carriers.'},
-          { title: 'SuiteHub (OMS)', desc: 'An order management system (OMS), collecting orders from the ecommerce platform, including but no limited to: Amazon, Walmart, eBay, Shopify, BigCommerce.'}
+          { title: 'SuiteHub (OMS)', desc: 'An order management system (OMS), collects and manages orders from the ecommerce platform, including but no limited to: Amazon, Walmart, eBay, Shopify, BigCommerce.'}
         ]
       },
       evalaute: {

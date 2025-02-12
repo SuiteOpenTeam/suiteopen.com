@@ -62,7 +62,7 @@
     <div >
         <div class="layout-mid we-help">
             <div class="help-left">
-                <p class="help-title">Customer Stories</p>
+                <p class="help-title">Customer Story</p>
                 <p class="customer-name">{{ data.customer.project }}</p>
                 <p class="customer-talk">{{ data.customer.text }}</p>
                 <a class="v-btn" v-if="data.customer.btn" :href="data.customer.btn.link">{{ data.customer.btn.text }}</a>
