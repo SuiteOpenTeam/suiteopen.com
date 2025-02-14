@@ -64,10 +64,10 @@ export default defineConfigWithTheme({
           {
             text: 'Our Customers\' Journeys',
             items: [
-              { text: 'Manufacturing', link: '/industry/consumer-goods' },
-              { text: 'Internet Company', link: '/industry/manufacturing' },
-              { text: 'Furniture & Furnishings', link: '/industry/manufacturing' },
-              { text: 'eCommerce', link: '/industry/manufacturing' },
+              { text: 'Bide Pharmatech (Manufacturing)', link: '/case/manufacturing' },
+              { text: 'So-Young (Internet Company)', link: '/case/internet-company' },
+              { text: 'Woodoo Cabinetry (Furniture)', link: '/case/furniture' },
+              { text: 'Renogy (eCommerce)', link: '/case/ecommerce' },
             ]
           }
         ]

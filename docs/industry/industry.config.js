@@ -36,31 +36,31 @@ export default {
         banner: {
             subject: 'INDUSTRIES',
             type: 'Furniture & Furnishings',
-            desc: 'Drive manufacturing efficiency leveraging ERP cloud solutions',
+            desc: 'Level up customer experience and efficiency leveraging cloud solutions',
             img: '/asset/Black-Living-Room.jpeg'
         },
         trends: {
-            title: 'Assembling lean, connected, and digitally transformed future',
-            text: 'From supply chain disruptions and rising input costs to shifting customer demands and inventory uncertainties, the risks facing manufacturing companies are only growing—intensifying concerns about revenue growth and profit margins. With so many variables in flux, it can be difficult to determine the best path to growth.'
+            title: 'Speed up your fulfillment, serve more customers, and never miss an order',
+            text: 'While it all seems straightforward on paper, the size of the warehouse, products ordered, availability of staff, and frequency of orders coming in and going out can make order management a complex endeavor nightmare for warehouse managers.'
         },
         wehelp: {
-            title: 'Building tomorrow’s manufacturer',
-            desc: 'Manufacturing companies need to get the most out of every facet of their operations. This means staying on top of key performance metrics, including production rates and yields, asset utilization, process cycle efficiency, energy consumption, and quality control measures.',
+            title: 'Establish the foundation of a seamless shopping experience.',
+            desc: 'We give you a single overview of all order, stock, and sales data, so you can offer your customers top-notch service.',
             items: [
-                'Reduce the complexities of your asset operations.',
-                'Reduce the complexities of your asset operations.',
-                'Reduce the complexities of your asset operations.'
+                'Automate Collaboration - Effective order management can help you save money on manual labor, decrease the risk of human errors, and free up time so you can refocus your priorities on growing your business and improving customer satisfaction.',
+                'Centralize Your Business - Our solution will break down complex information to simplify your orders into one place, protecting you from order errors, customer dissatisfaction from delays, lost revenue from low inventory, and incorrect invoicing.',
+                'Access to Real-time Information - Having live updates on inventory and sales is going to help you react to any issues immediately with your order managemers rather than allowing problems to develop and for the customer to be left dissatisfied.'
             ],
-            img: 'https://www.syntax.com/wp-content/uploads/2024/08/img-manufacturing-tomorrow-today.webp'
+            img: '/asset/KitchenCabinet.jpeg'
         },
         customer: {
             project: 'Smart Press',
-            text: 'With SuiteOpen, we have a partner at our side who knows how industrial companies tick, who knows the processes and special features. Therefore, they also understand which impulses',
+            text: 'With a focus on ROI and a strong technical team, we have obtained a simple but strong order engine that makes the service department\'s work much easier, thus improving the customer experience: a triple-win for dealers, consumers and the business.',
             btn: {
                 text: 'READ CASE STORY',
                 link: '/case/renogy'
             },
-            img: 'https://www.syntax.com/wp-content/uploads/2024/08/img-manufacturing-tomorrow-today.webp'
+            img: '/asset/furnitureMarket.jpg'
         }
     },
     'internet-company': {
@@ -68,22 +68,22 @@ export default {
         banner: {
             subject: 'INDUSTRIES',
             type: ' Internet Company',
-            desc: 'ERP and Cloud technology solutions',
-            img: '/asset/retail.png'
+            desc: 'A unique finance management solution for global business',
+            img: '/asset/internetBanner.png'
         },
         trends: {
-            title: 'Improving customer service and increasing sales in an unpredictable retail environment',
-            text: 'Customers want greater convenience. They want better value. And they expect a customer journey that creates fun, enjoyable moments, beyond the purely transactional aspect of shopping.  For retail and consumer goods companies, understanding how consumer expectations are evolving has never been more important, especially with the convergence of supply chain, digital technologies, and other innovations.'
+            title: 'Effectively deliver your financial statements with a compliant and integrated approach.',
+            text: 'Consolidate all of your financial acitivities into single finance solution, including but not limited to revenue recognition, expense claims, vendor payables, bank accounts into a single finance system. NetSuite\'s unique tax engine and OneWorld module ensure your financial operation always complying with all the local and global compliance requirements.'
         },
         wehelp: {
-            title: 'Building tomorrow’s manufacturer',
-            desc: 'Manufacturing companies need to get the most out of every facet of their operations. This means staying on top of key performance metrics, including production rates and yields, asset utilization, process cycle efficiency, energy consumption, and quality control measures.',
+            title: 'Scale your business worldwide',
+            desc: 'Manage your business with Oracle NetSuite\'s features and functionality. Maximize your financial management, customer experience, contracts, and more with one of North America\'s leading Enterprise Resource Planning (ERP) tools.',
             items: [
-                'Reduce the complexities of your asset operations.',
-                'Reduce the complexities of your asset operations.',
-                'Reduce the complexities of your asset operations.'
+                'End-to-end Business Management - NetSuite offers a fully integrated suite of applications that cover financial management, CRM, order management, billing, and more. It allows you to manage entire business operations from a single platform.',
+                'Real-time Analytics - Our solution provides real-time visibility into KPI, allowing you to make data-driven decisions and respond quickly to changing market demands.',
+                'Automated Billing and Revenue Recognition - NetSuite automates the billing process and fulfills complex revenue recognition scenarios, ensuring accurate billing and compliance with different accounting principles.'
             ],
-            img: 'https://www.syntax.com/wp-content/uploads/2024/08/img-manufacturing-tomorrow-today.webp'
+            img: '/asset/people-coffee-meeting.jpg'
         },
         customer: {
             project: 'Smart Press',
@@ -92,7 +92,7 @@ export default {
                 text: 'READ CASE STORY',
                 link: '/case/renogy'
             },
-            img: 'https://www.syntax.com/wp-content/uploads/2024/08/img-manufacturing-tomorrow-today.webp'
+            img: '/asset/softwaredevelopers.jpeg'
         }
     },
     'manufacturing': {
