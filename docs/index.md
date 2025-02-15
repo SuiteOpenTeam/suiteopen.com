@@ -115,7 +115,7 @@ const { home } = theme.value;
 
 <style scoped>
 .full-bg{
-    background: url('./banner.png');
+    background: url('/banner.png');
     height: 600px;
     background-position: center;
     display: flex;
@@ -303,22 +303,22 @@ const { home } = theme.value;
     width: 80%;
 }
 .bg-img-1{
-    background: url(./img-industries-1.webp);
+    background: url(/img-industries-1.webp);
      background-size: cover;
     background-position: center;
 }
 .bg-img-2{
-    background: url(./internetPic.jpg);
+    background: url(/internetPic.jpg);
      background-size: cover;
     background-position: center;
 }
 .bg-img-3{
-    background: url(./darkFurniture1.png);
+    background: url(/darkFurniture1.png);
      background-size: cover;
     background-position: center;
 }
 .bg-img-4{
-    background: url(./img-industries-4.webp);
+    background: url(/img-industries-4.webp);
      background-size: cover;
     background-position: center;
 }
