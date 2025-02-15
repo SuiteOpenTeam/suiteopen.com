@@ -88,9 +88,9 @@ export default defineConfigWithTheme({
         email: 'daniel.cai@suiteopen.com'
       },
       terms: [
-        {text: 'Terms', link: ''},
-        {text: 'Privacy Policy', link: ''},
-        {text: 'Security', link: ''},
+        {text: 'Terms-of-Use', link: '/terms'},
+        {text: 'Privacy-Policy', link: '/privacypolicy'},
+        {text: 'Security', link: '/security'},
       ]
     },
     // page data
