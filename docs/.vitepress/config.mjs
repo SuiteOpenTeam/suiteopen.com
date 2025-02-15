@@ -112,7 +112,7 @@ export default defineConfigWithTheme({
         ]
       },
       evalaute: {
-        text: '“NetSuite helped us to complete our AmBeed’s global digital transformation. We successfully consolidate 12 business entities from 4 countries within NetSuite. And SuiteOpen helped AmBeed to integrate all of our other business systems with NetSuite, like WMS, PLM, Expense.“',
+        text: '“NetSuite helped us to complete Bide\'s global digital transformation. We successfully consolidate 12 business entities from 4 countries within NetSuite. And SuiteOpen helped AmBeed to integrate all of our other business systems with NetSuite, like WMS, PLM, Expense.“',
         person: 'Chief Finance Officer - Mr. Lu / 芦晓旭(Lu Xiaoxu)'
       },
       industry: {

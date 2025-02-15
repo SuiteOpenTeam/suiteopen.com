@@ -9,7 +9,7 @@
       <nav class="main-navigation">
          <ul class="menu nav-menu">
             <li class="megamenu" v-for="item in theme.nav">
-               <a :href="item.link" class="black">{{ item.text }}</a>
+               <a :href="item.link" class="black" style="color:#0632a0;">{{ item.text }}</a>
                <ul class="sub-menu" v-if="item?.sublist">
                   <li v-for="subItem in item.sublist">
                     <div class="sub-title">{{ subItem.text }}</div> 
@@ -21,8 +21,7 @@
             </li>
          </ul>
       </nav>
-      <div style="width: auto;
-            flex-grow: 0;"></div>
+      <div style="width: auto; flex-grow: 0;"></div>
    </div>
 </template>
 <script setup>
@@ -46,6 +45,7 @@ const hidePanel = (e) => {
 }
 .black{
    color: #333;
+   font-weight: bold;
 }
 .header-inner{
     height: 80px;
