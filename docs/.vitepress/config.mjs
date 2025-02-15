@@ -98,7 +98,7 @@ export default defineConfigWithTheme({
       caseOne: {
         name: 'CASE STUDY',
         desc: 'See how we helped our customers integrate production, logistics, and management processes with Oracle NetSuite.',
-        link: '/case/renogy'
+        link: '/case/ecommerce'
       },
       welcome: `Welcome to SuiteOpen. We're a leading global technology solutions and services provider for cloud application implementation and management.`,
       solution: {

@@ -26,7 +26,7 @@ export default {
             text: 'The whole transform process was slick. The testing went well, our key users didn\'t even notice the switch, and dealing with the third party went well. Slick is the word.',
             btn: {
                 text: 'READ CASE STORY',
-                link: '/case/renogy'
+                link: '/case/ecommerce'
             },
             img: '/asset/warehouse-automation.jpeg'
         }
@@ -58,7 +58,7 @@ export default {
             text: 'With a focus on ROI and a strong technical team, we have obtained a simple but strong order engine that makes the service department\'s work much easier, thus improving the customer experience: a triple-win for dealers, consumers and the business.',
             btn: {
                 text: 'READ CASE STORY',
-                link: '/case/renogy'
+                link: '/case/furniture'
             },
             img: '/asset/furnitureMarket.jpg'
         }
@@ -90,7 +90,7 @@ export default {
             text: 'With SuiteOpen, we have a partner at our side who knows how industrial companies tick, who knows the processes and special features. Therefore, they also understand which impulses',
             btn: {
                 text: 'READ CASE STORY',
-                link: '/case/renogy'
+                link: '/case/internet-company'
             },
             img: '/asset/softwaredevelopers.jpeg'
         }
@@ -122,7 +122,7 @@ export default {
             text: 'With SuiteOpen, we have a partner at our side who knows how industrial companies tick, who knows the processes and special features. Therefore, they also understand which impulses are needed to rethink existing processes in terms of digitization. Together with the profound NetSuite and cloud know-how, the result is a unique mix.',
             btn: {
                 text: 'READ CASE STORY',
-                link: '/case/renogy'
+                link: '/case/manufacturing'
             },
             img: '/asset/industrial-robot.jpg'
         }

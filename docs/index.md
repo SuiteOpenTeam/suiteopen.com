@@ -223,7 +223,7 @@ const { home } = theme.value;
     line-height: 1.5;
     font-weight: 300;
 }
-.s-li:nth-of-type(3){
+.s-li:nth-of-type(4){
     border: none;
 }
 .s-li p{
