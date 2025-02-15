@@ -120,9 +120,9 @@ export default defineConfigWithTheme({
         subTitle: 'At SuiteOpen, we combine extensive industry experience with deep enterprise application, cloud, and security knowledge to deliver context to technology.',
         items: [
            { title: 'Manufacturing', link: '/industry/manufacturing', desc: 'Improve manufacturing processes from procurement to production, optimize workflows, and stand out from competitors.' },
-           { title: 'Internet Company', link: '/industry/consumer-goods', desc: 'Optimize resource extraction, elevate safety standards, and boost compliance to achieve sustainable growth.' },
-           { title: 'Furniture & Furnishings', link: '/industry/manufacturing', desc: 'Empower your team with streamlined product and customer management capabilities, reducing order delivery timelines and enhancing efficiency.' },
-           { title: 'eCommerce', link: '/industry/consumer-goods', desc: 'Advanced analytics, demand forecasting, supply chain optimization and more to redefine the definition of customer experience.' }
+           { title: 'Internet Company', link: '/industry/internet-company', desc: 'Optimize resource extraction, elevate safety standards, and boost compliance to achieve sustainable growth.' },
+           { title: 'Furniture & Furnishings', link: '/industry/furniture', desc: 'Empower your team with streamlined product and customer management capabilities, reducing order delivery timelines and enhancing efficiency.' },
+           { title: 'eCommerce', link: '/industry/ecommerce', desc: 'Advanced analytics, demand forecasting, supply chain optimization and more to redefine the definition of customer experience.' }
         ]
       }
     }
